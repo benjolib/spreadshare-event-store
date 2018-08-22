@@ -1,0 +1,11 @@
+{
+  "name": "event-store",
+  "version": "1.0.0",
+  "description": "spreadshare lambdas",
+  "main": "index.js",
+  "author": "robophil<oghenerobo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-webpack": "^5.2.0"
+  }
+}
